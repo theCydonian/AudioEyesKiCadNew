@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name LM561C)(type Legacy)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/PiUIHat/SPMWHT541ML5XATMS6/SPMWHT541ML5XATMS6.lib)(options "")(descr ""))
+  (lib (name LED_R)(type Legacy)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/ERJ-PA2F36R0X/ERJ-PA2F36R0X.lib)(options "")(descr ""))
+  (lib (name BJT_R)(type Legacy)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/ERJ-3EKF3000V/ERJ-3EKF3000V.lib)(options "")(descr ""))
+  (lib (name BJT)(type Legacy)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/DSS20201L-7/DSS20201L-7.lib)(options "")(descr ""))
+)

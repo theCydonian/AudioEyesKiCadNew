@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/thecydonianosx/Desktop/AudioEyesKiCadNew/LightCap/LightCap.sch</source>
+    <date>Friday, March 26, 2021 at 08:38:46 AM</date>
+    <tool>Eeschema (5.1.5-0-10_14)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LightCap.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605A1ED5</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605A28C3</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>ERJ-3EKF3000V</value>
+      <footprint>RESC1608X55N</footprint>
+      <libsource lib="BJT_R" part="ERJ-3EKF3000V" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605A3925</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>DSS20201L-7</value>
+      <footprint>SOT95P240X110-3N</footprint>
+      <fields>
+        <field name="MPN">DSS20201L-7</field>
+        <field name="OC_FARNELL">1710689</field>
+        <field name="OC_NEWARK">25R4555</field>
+        <field name="PACKAGE">SOT-23-3</field>
+        <field name="SUPPLIER">DIODES INC.</field>
+      </fields>
+      <libsource lib="BJT" part="DSS20201L-7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605A484D</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605AB11C</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605AB122</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605AD91B</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605AD921</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605AEF32</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605AEF38</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605B07A5</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605B07AB</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605C3E8E</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605C3E94</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605C3E9F</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605C3EA5</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605C3EB0</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605C3EB6</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605C3EC1</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605C3EC7</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605C3ED2</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605C3ED8</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605D6847</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605D684D</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605D6858</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605D685E</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605D6869</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605D686F</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605D687A</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605D6880</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>SPMWHT541ML5XATMS6</value>
+      <footprint>LED_SPMWHT541MP5WAPKS4</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="PARTREV">8.3</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LM561C" part="SPMWHT541ML5XATMS6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605D688B</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>ERJ-PA2F36R0X</value>
+      <footprint>RESC1005X40N</footprint>
+      <libsource lib="LED_R" part="ERJ-PA2F36R0X" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605D6891</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="BJT" part="DSS20201L-7">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DSS20201L-7</field>
+        <field name="Footprint">SOT95P240X110-3N</field>
+        <field name="SUPPLIER">DIODES INC.</field>
+        <field name="OC_FARNELL">1710689</field>
+        <field name="OC_NEWARK">25R4555</field>
+        <field name="PACKAGE">SOT-23-3</field>
+        <field name="MPN">DSS20201L-7</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="passive"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BJT_R" part="ERJ-3EKF3000V">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">ERJ-3EKF3000V</field>
+        <field name="Footprint">RESC1608X55N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED_R" part="ERJ-PA2F36R0X">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">ERJ-PA2F36R0X</field>
+        <field name="Footprint">RESC1005X40N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LM561C" part="SPMWHT541ML5XATMS6">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SPMWHT541ML5XATMS6</field>
+        <field name="Footprint">LED_SPMWHT541MP5WAPKS4</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="MANUFACTURER">Samsung Semiconductor,</field>
+        <field name="PARTREV">8.3</field>
+      </fields>
+      <pins>
+        <pin num="A" name="~" type="passive"/>
+        <pin num="C" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="BJT">
+      <uri>/Users/thecydonianosx/Desktop/AudioEyesKiCadNew/DSS20201L-7/DSS20201L-7.lib</uri>
+    </library>
+    <library logical="BJT_R">
+      <uri>/Users/thecydonianosx/Desktop/AudioEyesKiCadNew/ERJ-3EKF3000V/ERJ-3EKF3000V.lib</uri>
+    </library>
+    <library logical="LED_R">
+      <uri>/Users/thecydonianosx/Desktop/AudioEyesKiCadNew/ERJ-PA2F36R0X/ERJ-PA2F36R0X.lib</uri>
+    </library>
+    <library logical="LM561C">
+      <uri>/Users/thecydonianosx/Desktop/AudioEyesKiCadNew/PiUIHat/SPMWHT541ML5XATMS6/SPMWHT541ML5XATMS6.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D1-PadC)">
+      <node ref="D1" pin="C"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="2" name="switch">
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="3" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="5" name="Net-(D2-PadC)">
+      <node ref="D2" pin="C"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="6" name="Net-(D3-PadC)">
+      <node ref="D3" pin="C"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="7" name="Net-(D4-PadC)">
+      <node ref="R5" pin="1"/>
+      <node ref="D4" pin="C"/>
+    </net>
+    <net code="8" name="Net-(D5-PadC)">
+      <node ref="R6" pin="1"/>
+      <node ref="D5" pin="C"/>
+    </net>
+    <net code="9" name="Net-(D6-PadC)">
+      <node ref="D6" pin="C"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="10" name="Net-(D7-PadC)">
+      <node ref="D7" pin="C"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="11" name="Net-(D8-PadC)">
+      <node ref="D8" pin="C"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="12" name="Net-(D9-PadC)">
+      <node ref="R10" pin="1"/>
+      <node ref="D9" pin="C"/>
+    </net>
+    <net code="13" name="Net-(D10-PadC)">
+      <node ref="R11" pin="1"/>
+      <node ref="D10" pin="C"/>
+    </net>
+    <net code="14" name="Net-(D11-PadC)">
+      <node ref="R12" pin="1"/>
+      <node ref="D11" pin="C"/>
+    </net>
+    <net code="15" name="Net-(D12-PadC)">
+      <node ref="R13" pin="1"/>
+      <node ref="D12" pin="C"/>
+    </net>
+    <net code="16" name="Net-(D13-PadC)">
+      <node ref="D13" pin="C"/>
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="17" name="Net-(D14-PadC)">
+      <node ref="R15" pin="1"/>
+      <node ref="D14" pin="C"/>
+    </net>
+    <net code="18" name="Net-(D15-PadC)">
+      <node ref="R16" pin="1"/>
+      <node ref="D15" pin="C"/>
+    </net>
+    <net code="19" name="Net-(R10-Pad2)">
+      <node ref="R11" pin="2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R16" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="R12" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R13" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R14" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="R15" pin="2"/>
+      <node ref="U1" pin="2"/>
+      <node ref="R10" pin="2"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="20" name="Vin">
+      <node ref="D7" pin="A"/>
+      <node ref="D9" pin="A"/>
+      <node ref="D15" pin="A"/>
+      <node ref="D8" pin="A"/>
+      <node ref="D14" pin="A"/>
+      <node ref="D10" pin="A"/>
+      <node ref="D2" pin="A"/>
+      <node ref="D13" pin="A"/>
+      <node ref="D3" pin="A"/>
+      <node ref="D4" pin="A"/>
+      <node ref="D12" pin="A"/>
+      <node ref="D5" pin="A"/>
+      <node ref="D1" pin="A"/>
+      <node ref="D11" pin="A"/>
+      <node ref="D6" pin="A"/>
+    </net>
+  </nets>
+</export>

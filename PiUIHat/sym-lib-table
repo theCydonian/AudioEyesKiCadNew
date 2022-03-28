@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name raspberrypi_hat)(type Legacy)(uri ${KIPRJMOD}/project_components/raspberrypi_hat.lib)(options "")(descr ""))
+  (lib (name SMD_LED)(type Legacy)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/PiUIHat/SPMWHT541ML5XATMS6/SPMWHT541ML5XATMS6.lib)(options "")(descr ""))
+  (lib (name ERJ-PA2F36R0X)(type Legacy)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/ERJ-PA2F36R0X/ERJ-PA2F36R0X.lib)(options "")(descr ""))
+  (lib (name DSS20201L-7)(type Legacy)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/DSS20201L-7/DSS20201L-7.lib)(options "")(descr ""))
+  (lib (name ERJ-3EKF3000V)(type Legacy)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/ERJ-3EKF3000V/ERJ-3EKF3000V.lib)(options "")(descr ""))
+  (lib (name PiUIHat-rescue)(type Legacy)(uri ${KIPRJMOD}/PiUIHat-rescue.lib)(options "")(descr ""))
+  (lib (name 3PIN)(type Legacy)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/ul_GRPB031VWVNRC/KiCAD/2021-02-25_18-21-16/2021-02-25_18-21-16.lib)(options "")(descr ""))
+)

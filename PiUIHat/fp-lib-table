@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name project_footprints)(type KiCad)(uri "$(KIPRJMOD)/project_footprints.pretty")(options "")(descr ""))
+  (lib (name SMD_LED)(type KiCad)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/PiUIHat/SPMWHT541ML5XATMS6)(options "")(descr ""))
+  (lib (name ERJ-PA2F36R0X)(type KiCad)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/ERJ-PA2F36R0X)(options "")(descr ""))
+  (lib (name DSS20201L-7)(type KiCad)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/DSS20201L-7)(options "")(descr ""))
+  (lib (name ERJ-3EKF3000V)(type KiCad)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/ERJ-3EKF3000V)(options "")(descr ""))
+  (lib (name CHERRY)(type KiCad)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/Button_Switch_Keyboard.pretty)(options "")(descr ""))
+  (lib (name 3PIN)(type KiCad)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/ul_GRPB031VWVNRC/KiCAD/2021-02-25_18-21-16/footprints.pretty)(options "")(descr ""))
+)

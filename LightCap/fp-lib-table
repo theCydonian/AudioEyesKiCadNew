@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name LED_SAMS)(type KiCad)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/PiUIHat/SPMWHT541ML5XATMS6)(options "")(descr ""))
+  (lib (name LED_R)(type KiCad)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/ERJ-PA2F36R0X)(options "")(descr ""))
+  (lib (name BJT_R)(type KiCad)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/ERJ-3EKF3000V)(options "")(descr ""))
+  (lib (name BJT)(type KiCad)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/DSS20201L-7)(options "")(descr ""))
+  (lib (name USB_C.pretty)(type KiCad)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/Type-C.pretty)(options "")(descr ""))
+  (lib (name GRAPHICS)(type KiCad)(uri /Users/thecydonianosx/Desktop/AudioEyesKiCadNew/graphics.pretty)(options "")(descr ""))
+)
